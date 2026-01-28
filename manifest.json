@@ -1,0 +1,6 @@
+{
+  "formatVersion": 1,
+  "packID": "starter-pack",
+  "packURL": "https://raw.githubusercontent.com/<YOUR_GITHUB_USER>/<YOUR_REPO>/main/SamplePack.json",
+  "packSHA256": "<PASTE_SHA256_HERE>"
+}
