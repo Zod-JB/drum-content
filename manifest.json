@@ -1,6 +1,6 @@
 {
   "formatVersion": 1,
   "packID": "starter-pack",
-  "packURL": "https://raw.githubusercontent.com/<YOUR_GITHUB_USER>/<YOUR_REPO>/main/SamplePack.json",
-  "packSHA256": "<PASTE_SHA256_HERE>"
+  "packURL": "https://raw.githubusercontent.com/Zod-JB/drum-content/main/SamplePack.json",
+  "packSHA256": "925878afdf52a0f1bf3fbe59b4df287653a47759bd6cadbbff9513a72a037915"
 }
