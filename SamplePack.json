@@ -1,0 +1,9 @@
+{
+  "formatVersion": 1,
+  "packID": "starter-pack",
+  "title": "Starter Pack",
+  "items": [
+    { "id": "ssr-80", "title": "Single Stroke Roll", "tempo": 80 },
+    { "id": "para-90", "title": "Paradiddle", "tempo": 90 }
+  ]
+}
